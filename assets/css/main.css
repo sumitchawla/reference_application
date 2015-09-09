@@ -1953,6 +1953,7 @@
 .float1{
 	font-weight: bold;
 	font-family: FontAwesome;
+	font: inherit;
 	position:absolute;
 	right:0;
     bottom: 35%;
@@ -1964,6 +1965,7 @@
 .float2{
 	font-weight: bold;
 	font-family: FontAwesome;
+	font: inherit;
 	position:absolute;
 	right:0;
 	bottom: 25%;
